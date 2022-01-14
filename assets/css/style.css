@@ -1,3 +1,10 @@
+/*General*/
+.hr-title {
+  width: 60px; 
+  background-color: #000000; 
+  height: 3px
+}
+
 /*Redes sociales*/
 .btn-floating {
     width: 2.3125rem;
@@ -29,4 +36,14 @@
 .banner .filter {
   -webkit-filter: brightness(0) invert(1);
   filter: brightness(0) invert(1);
+}
+
+/*Seccion de contacto*/
+.contact-info {
+    margin-top: -93px;
+}
+
+.contact-info .range {
+    background-color: #fff;
+    box-shadow: 0 0px 7px 0 rgb(0 0 0 / 13%);
 }
