@@ -5,6 +5,9 @@
   height: 3px
 }
 
+.img-circle {
+    border-radius: 50%;
+}
 /*Redes sociales*/
 .btn-floating {
     width: 2.3125rem;
