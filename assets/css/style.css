@@ -1,0 +1,20 @@
+/*General*/
+.text-gold {
+	color: #e6b043 !important;
+}
+
+/*Menu*/
+.nav-masthead .nav-link {
+	background-color: transparent;
+	border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(230, 176, 67, .50);
+}
+
+.nav-masthead .active {
+	color: #212529;
+	border-bottom-color: #e6b043;
+}
