@@ -18,3 +18,15 @@
 	color: #212529;
 	border-bottom-color: #e6b043;
 }
+
+.fixed-top {
+	background-color: white;
+}
+
+/*Lista*/
+.ullist {
+	position: relative;
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+}
