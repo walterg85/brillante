@@ -3,6 +3,12 @@
 	color: #e6b043 !important;
 }
 
+.btn-gold {
+    color: #f1f1f1;
+    background-color: #e6b043;
+    border-color: #e9a51b;
+}
+
 /*Menu*/
 .nav-masthead .nav-link {
 	background-color: transparent;
